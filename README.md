@@ -49,3 +49,4 @@ On this basis, an example is given in detai:
 	
 To run the code, you need change the file path in all files according to your own experiments.
 
+If you have any questions, please send me an email to xinliao@hnu.edu.cn
