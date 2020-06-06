@@ -20,7 +20,7 @@ Directories and files included in the implementation:
 	In our paper, we select 1,000 color images from UCID database to generate training and validation databases.
 	BOSSbase image set consisting of 10,000 color images is used to acquire the testing image database.
 
-On this basis, an example is given in details:
+On this basis, an example is given in detail:
 'Upsampling factor s = 1.5, Gaussian blurring variance ν = 1.0'
 
 
